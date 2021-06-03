@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Proceedings at the Sessions for London &amp; Middlesex, holden at the Old Bailey beginning on Wednesday the sixteenth of July, 1679 being the condemnation of the notorious coyners and many other too common malefactors : with the number of persons condemned to die, and their respective facts : as also of those that were burnt in the hand, or otherwise to be punished : and likewise the tryals of Sir George Wakeman, Mr. Corker, Provincial of the Benedictine monks, Mr. Rumly, and Mr. Marshal.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28398</idno><idno type="EEBO-CITATION">10599499</idno>
+  <idno type="VID">204737</idno>
+  <idno type="EEBO-PROQUEST">2240860534</idno>
+  
+            <idno type="STC">Wing P3562A</idno>
+            <idno type="OCLC">10599499</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Proceedings at the Sessions for London &amp; Middlesex, holden at the Old Bailey beginning on Wednesday the sixteenth of July, 1679 being the condemnation of the notorious coyners and many other too common malefactors : with the number of persons condemned to die, and their respective facts : as also of those that were burnt in the hand, or otherwise to be punished : and likewise the tryals of Sir George Wakeman, Mr. Corker, Provincial of the Benedictine monks, Mr. Rumly, and Mr. Marshal.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wakeman, George, --  Sir, fl. 1668-1685.</term>
+               <term type="personal_name">Corker, James Maurus, 1636-1715.</term>
+               <term type="topical_term">Trials --  England.</term>
+               <term type="topical_term">Criminal courts --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204737:1"/>
+            <pb n="1" facs="tcp:204737:1"/>
+            <head>The Proceedings at the SESSIONS FOR London &amp; Middlesex, Holden at the <hi>OLD BAILEY:</hi> Beginning on Wednesday the Sixteenth of <hi>July,</hi> 1679. Being the Condemnation of the notorious COYNERS, And many other too common Malefactors. WITH The Number of the persons Condemned to Die, and their respective Facts. As also of those that were Burnt in the Hand, or otherwise to be Punished. And likewise the Tryals of Sir <hi>GEORGE WAKEMAN,</hi> Mr. <hi>Corker,</hi> Provincial of the Benedictine Monks, Mr. <hi>Rumly,</hi> and Mr. <hi>Marshal.</hi>
+            </head>
+            <p>THE most considerable Tryal this Wednesday fore-noon, was of a Woman for Murthering her Bastard Child; a Crime in it self so horrid and unnatural, as one would think no person, especially of that Sex, which is counted the most tender-hearted and merciful, could be guilty of such an inhumane Impiety, and yet there is nothing more frequent; notwithstanding the daily examples of punishment by death inflicted up<g ref="char:EOLhyphen"/>on them; for I do not remember any Sessions for these half dozen years last past, wherein there hath not been, at least one, if not more Tryed for this Bloody Crime. The present Prisoner was Servant to a Gentle<g ref="char:EOLhyphen"/>woman of good worth, and had behaved her self with that diligence and modesty, that she had gained much upon the Affections and good opinion of the Family, so that they had no mistrust of her; though when she had been privately Delivered, and disposed of her Child, she was taken notice of to be ill, and some Feminine symptomes appeared. But the same at last increasing, a Midwife was sent for; who examining and enquiring into Circumstances, concluded her to have been delive<g ref="char:EOLhyphen"/>red of a Child, and charging her with it, she ingeniously confest it, and that it was in a void Garret, near the room she lay in, where they found it buried under certain Tiles and Rubbish. She then and now al<g ref="char:EOLhyphen"/>leadged that it was still both; but confessing that she was never Married,
+<pb n="2" facs="tcp:204737:2"/>and the Statute making it Death for a Woman to be delivered of a Bastard-Child, without witness or discovering it; and the Midwife, though she could not positively affirm that she had gone her full time, yet acknowledging the Infant had both Hair and Nails, she was Con<g ref="char:EOLhyphen"/>victed, and received Sentence of death.</p>
+            <p>A person that had been an old Offender, though but a young man, was Tryed on two Indictments, for stealing of several Watches, both pickt out of the Prosecutors Pockets; and to aggravate his Crime, one of them was stoln in the <hi>Savoy</hi> Church: being taken upon suspition, and his Lodgings searcht, there were found a great number of Watches, about eighteen, and amongst them these two, which were now owned: though the Witnesses could not directly Swear he was the man that robb'd them, yet being taken from their persons, and found in his custo<g ref="char:EOLhyphen"/>dy, who was not able to give any good account how he came by them, but onely a frivolous allegation, that he bought one of them of a fel<g ref="char:EOLhyphen"/>low that appeared to be hang'd last Sessions, and the other of he knew not whom; he was found guilty on both Indictments.</p>
+            <p>A very little Girl was Arraigned for stealing a Money-Box, and there<g ref="char:EOLhyphen"/>in three pound and odd money, out of a Chandlers shop, whilst they were at Dinner: she had often frequented the place for Alms, and the good man had several times relieved her; and once before she had taken away a Box and Farthings, as since she confest, though then not sus<g ref="char:EOLhyphen"/>pected; but now they very quickly missing their Money, pursued, found her out not far off, and charging her very sharply, made her confess the Theft, and acquaint them that she had thrown the Box over a wall, and hid the money in a piece of Leather under a stone by a Pump, where they found it: but she being a Child, and, as she said, not above eight years old, and, by her allegations, there being some reason to suspect that she did it by the wicked instigation of her Parents, in pitty to her tender age, as not having any Felonious intent, she was favoured so far, as not to be found guilty of the Indictment.</p>
+            <p>So likewise two Boys, that by stealing a Gentlemans key from a Bed<g ref="char:EOLhyphen"/>maker with whom they went to School, got into his Chamber in an Inn of Chancery, and breaking his study, stole thence six pound and odd money, and two Rings, and so run two or three miles out of Town, where after some time they were taken, and one of the Rings, and forty shillings of the Money, the rest thereof being spent, and one Ring as they said lost: It appearing that onely one of them did the Fact, though the other had share in spending the Money, the first was found guilty, and the other acquitted. It being a most sad object, to see Children so young, so vitiously inclined, as to attempt such wickedness.</p>
+            <p>A bold Girl was accused for breaking open a Trunk, and stealing a dozen of Napkins in the House of one that was remotely related to her; but the Jury did not think the Evidence plain enough to Convict her. So likewise they acquitted two Shop-lifts, charged with stealing of for<g ref="char:EOLhyphen"/>ty yards of Bone lace; for though there were violent presumptions of their guilt, there was no direct proof.</p>
+            <p>In the afternoon a Carman took a Trial for killing a Boy in <hi>Newgate<g ref="char:EOLhyphen"/>street;</hi> driving his Cart along very moderately, and meeting with some
+<pb n="3" facs="tcp:204737:2"/>Gentlemens Coaches, he going to give way, the Child being on the other side, unseen by him, hapned to be beat down, and run over by the farther wheel: All which Circumstances being proved by persons of credit that saw the Action, and declared that they verily believed it was purely an involuntary Accident, and not by any default of the Pri<g ref="char:EOLhyphen"/>soner, he was cleared.</p>
+            <p>Next was a Young man, by Trade an Instrument-maker, Tryed for firing of <hi>New-Prison,</hi> lately burnt down: To which Prison he had been Committed for a Recusant, but got out upon Bayl. There was a Witness which occasioned the Suspicion, that testified, That the day before the fire, the Prisoner ask'd him if he had a minde to earn 50 <hi>s.</hi> To which he consenting, if in an honest way, the Prisoner refused to tell him for what service, unless he would promise him absolutely to do it, and so they parted; but first the Prisoner told him, If he would earn it, he should see fine sport in <hi>New-prison</hi> before the next day 7 a Clock; before which time the said Prison was burnt. There were some other Witnesses, but not direct to the purpose; and the Prisoner proving, that the same Night he was out of Town; upon a full disquisition of the whole matter, he was found not Guilty.</p>
+            <p>After this was a notable Tryal of two persons for Coyning; they were by trade Watch-makers, and one of them lately dwelt in the <hi>Old-Bayly;</hi> but together with another of their Gang not yet taken, they had hired Rooms at a House by <hi>Bun-hill-fields,</hi> where they drove their mischievous Trade. Having paid their Landlady some of their counterfeit Money, she sent out a Boy with a new-mill'd Half-crown, to buy some Nutmegs. The Grocer's Apprentice by the lightness suspected it to be naught, and took advice on it, who concurr'd in the same opinion; and seeing it so very fresh and newly done, cut it, and found it to be Brass, but exquisitely plated over, allowing not above three pennyworth of Silver to a piece. Hereupon they took the name of the person from whom the Boy said he came, and gave notice: But the Artists understanding there was some noise abroad of it, fled with the greatest part of their Tools, before the House came to be searcht. However, notice being given in the Gazette, one was soon after taken in <hi>Bristol,</hi> and the other in <hi>London.</hi> Their Landlord and Landlady both swore they had seen them at work, and several of their Mill'd-pieces were produced in Court, most artificially contrived, having their Mills to do it exactly. They made some slight defence; but upon such plain Evidence of the Fact, were found Guilty of the Treason.</p>
+            <p>A Young man was likewise Convicted for stealing a Nag out of the Grounds near <hi>Nottingham,</hi> and coming riding up towards <hi>London,</hi> in <hi>Middlesex</hi> his Horse wanted shoeing; where the Smith observing that he came a different Way from the Road which he pretended, and other circumstances, mistrusted that he had stoln the Gelding; and questioning him, he at first endeavoured to make an escape; but be<g ref="char:EOLhyphen"/>ing taken, confess'd that he took him up near the place aforesaid; Whither notice being sent, the Owners Son came now and gave Evi<g ref="char:EOLhyphen"/>dence against him, on which he was found guilty.</p>
+            <pb n="4" facs="tcp:204737:3"/>
+            <p> One <hi>French,</hi> Indicted for breaking open an House in the day time, and stealing some Linn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n; refusing to plead, was put in the Press, the weight whereof in little time, made him willing to submit to his Tryal, being scarce able to go or stand when he came out; but on Tryal, though found guilty, he obtained the favour of Transporta<g ref="char:EOLhyphen"/>tion. A poor Popish Tailor was charged with being a Priest, but no Evidence coming against him, he was acquitted. <hi>Clark,</hi> the Boy for firing the House in the <hi>Mi<g ref="char:EOLhyphen"/>nories,</hi> after various and contrary Tales, being now again brought to the Bar, was or<g ref="char:EOLhyphen"/>dered to stand in the Pillory, with an Inscription to this purpose,—<hi>I am the Rogue that would have Fired my Mistresses House and all the City.</hi> These were of Common Offenders, Nine in all Condemned, whereof two for Trea<g ref="char:EOLhyphen"/>s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, for Coyning of Money, Nine burnt in the Hand, Five to be Transported, and Six wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt. But ordinary Criminals are now scarce worth the notice of any but the Hang<g ref="char:EOLhyphen"/>man, when we have so many Rogues of Note, and Villanies of Quality—</p>
+            <p>On Friday came on Sir <hi>George Wakeman,</hi> Mr. <hi>Corker,</hi> Provincial of the <hi>Benedictine</hi> Monks, Mr. <hi>Rumley,</hi> and Mr. <hi>Marshal.</hi> They were all Arraigned in one Indictment, <hi>For Conspiring the Death of the KING, &amp;c.</hi> The Evidence against them seem'd to be somewhat plain, That Sir <hi>George</hi> was to have Fifteen Thousand pounds for the Poysoning the KING. Against the others, there were other things proved: but as to Circumstances, I must refer to the Consciences of those concerned, the Prisoners were Acquitted.</p>
+            <epigraph>
+               <q xml:lang="lat">Fiat Justitia ruat Mundus.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204737:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
